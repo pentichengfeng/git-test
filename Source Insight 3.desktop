@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Source Insight 3
+Exec=env WINEPREFIX="/root/.wine" wine C:\\\\Program\\ Files\\\\Source\\ Insight\\ 3\\\\Insight3.exe 
+Type=Application
+StartupNotify=true
+Icon=8209_NewShortcut2_73B02DBE2F5B46B2A29EC665DA6D14E9.0
